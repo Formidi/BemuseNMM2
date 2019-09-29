@@ -1,0 +1,133 @@
+{ "songs":
+  [ { "title": "えいえんの　ゆめを　ください"
+    , "artist": "hugepulse BGA:Micelle"
+    , "genre": "Chiptune"
+    , "bpm": 200
+    , "charts":
+      [ { "md5": "e207ff5fda09b5f38f7960e3409d3e18"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 2165
+        , "bpm":
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_a.bms"
+        }
+      , { "md5": "657989829158b5f27af3df922baf17a3"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 3
+          }
+        , "noteCount": 181
+        , "bpm":
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_b.bms"
+        }
+      , { "md5": "93ab7f6857269d90723b6c3fd743d480"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 1107
+        , "bpm":
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_h.bms"
+        }
+      , { "md5": "162ff4a9edd15255ba142ce0db560b4c"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 7
+          }
+        , "noteCount": 582
+        , "bpm":
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_n.bms"
+        }
+      , { "md5": "90c3099ccd643e9a31832b87e63dadc5"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "NIRVANA"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 0
+          }
+        , "noteCount": 3129
+        , "bpm":
+          { "init": 200
+          , "min": 200
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_nir.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "Eienno_Yumewo_Kudasai_ogg"
+    , "path": "Eienno_Yumewo_Kudasai_ogg"
+    }
+  ]
+}
